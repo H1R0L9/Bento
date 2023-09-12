@@ -134,7 +134,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'Classes',
+			icon: 'graduation-cap',
 			id: '1',
 			links: [
 				{
@@ -156,7 +156,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'BAlls',
+			icon: 'coffee',
 			id: '2',
 			links: [
 				{
