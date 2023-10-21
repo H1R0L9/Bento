@@ -11,7 +11,7 @@ const CONFIG = {
 
 	// General
 	name: 'Harold',
-	imageBackground: true,
+	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
