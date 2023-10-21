@@ -64,21 +64,21 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
-		},
-		{
-			id: '4',
 			name: 'Linkedin',
 			icon: 'linkedin',
 			link: 'https://www.linkedin.com',
 		},
 		{
-			id: '5',
+			id: '4',
 			name: 'Slack',
 			icon: 'slack',
 			link: 'https://app.slack.com/client/T05N84016P2/C05MX263L8Z',
+		},
+		{
+			id: '5',
+			name: 'Calendar',
+			icon: 'calendar',
+			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
 			id: '6',
