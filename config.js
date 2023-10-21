@@ -11,7 +11,7 @@ const CONFIG = {
 
 	// General
 	name: 'Harold',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
@@ -64,27 +64,27 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Youtube',
-			icon: 'youtube',
-			link: 'https://www.youtube.com/',
-		},
-		{
-			id: '4',
 			name: 'Calendar',
 			icon: 'calendar',
 			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
+			id: '4',
+			name: 'Linkedin',
+			icon: 'linkedin',
+			link: 'https://www.linkedin.com',
+		},
+		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Slack',
+			icon: 'slack',
+			link: 'https://app.slack.com/client/T05N84016P2/C05MX263L8Z',
 		},
 		{
 			id: '6',
-			name: 'Twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/home',
+			name: 'PNC',
+			icon: 'credit-card',
+			link: 'https://www.pnc.com/en/personal-banking.html',
 		},
 	],
 
@@ -147,7 +147,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Webassign',
-					link: 'https://www.webassign.net/v4cgi/student.pl?action=home/index&course=935913,1267799&UserPass=418697e6cb9ac718796a9b72715903c5',
+					link: 'https://canvas.illinois.edu/courses/37900/modules/items/2702912',
 				},
 				{
 					name: 'PrarieLearn',
@@ -156,24 +156,24 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'play',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'r/Piracy Megathread',
+					link: 'https://rentry.org/megathread',
 				},
 				{
-					name: 'Slack',
-					link: 'https://app.slack.com/client/T05N84016P2/C05MX263L8Z',
+					name: 'Movie-Web',
+					link: 'movie-web.app/',
 				},
 				{
-					name: 'Handshake',
-					link: 'https://illinois.joinhandshake.com/stu',
+					name: 'SFlix',
+					link: 'https://sflix.to/',
 				},
 				{
-					name: 'PNC',
-					link: 'https://www.onlinebanking.pnc.com/alservlet/sso-landing',
+					name: 'Aniwave',
+					link: 'https://aniwave.to/home',
 				},
 			],
 		},
