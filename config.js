@@ -147,7 +147,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Webassign',
-					link: 'https://canvas.illinois.edu/courses/37900/modules/items/2702912',
+					link: 'https://canvas.illinois.edu/courses/43950/modules/items/3167841',
 				},
 				{
 					name: 'PrarieLearn',
@@ -165,7 +165,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Movie-Web',
-					link: 'movie-web.app/',
+					link: 'https://sudo-flix.lol/',
 				},
 				{
 					name: 'SFlix',
